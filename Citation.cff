@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite this research as below."
+authors:
+- family-names: "van Erp"
+  given-names: "Bart"
+  orcid: "https://orcid.org/0000-0002-5619-7071"
+title: "SSP2021-VariationalLogPowerTracking"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-09-02
+url: "https://github.com/biaslab/SSP2021-VariationalLogPowerTracking"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "van Erp"
+    given-names: "Bart"
+    orcid: "https://orcid.org/0000-0002-5619-7071"
+  - family-names: "Senoz"
+    given-names: "Ismail"
+  - family-names: "de Vries"
+    given-names: "Bart"
+  title: "Variational Log-Power Spectral Tracking of Acoustic Signals"
+  year: 2021
+  month: 7
+  conference:
+    - name: 2021 IEEE Statistical Signal Processing Workshop (SSP)
+  start: 311
+  end: 315
+  doi: "10.1109/ssp49050.2021.9513757"
